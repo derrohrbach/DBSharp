@@ -13,7 +13,7 @@ For more questions feel free to contact me.
 3. Run
 
 ## Projects using this lib
- - `@DBNavBot` Telegram Bot
+ - `@DBNavBot` Telegram Bot (https://t.me/dbnavbot)
  - Build a project yourself and contact me to get featured ;)
 
 ## License
