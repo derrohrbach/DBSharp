@@ -1,5 +1,5 @@
 # DBSharp
-a library for Deutsche Bahn (DB) realtime connection data. Written in C#/dotnet Core. Uses the inofficial IRIS API system of DB
+A library for Deutsche Bahn (DB) realtime connection data. Written in C#/dotnet Core. Uses the inofficial IRIS API system of DB
 
 ## Usage
 This library uses a Request Pattern. There exist multiple IRISRequests in the IRIS folder, which enable you to fetch data.
@@ -14,3 +14,4 @@ For more questions feel free to contact me.
 
 ## License
 MIT License (see LICENSE file)
+(c) 2017 Marvin Rohrbach
