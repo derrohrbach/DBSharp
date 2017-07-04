@@ -14,4 +14,5 @@ For more questions feel free to contact me.
 
 ## License
 MIT License (see LICENSE file)
+
 (c) 2017 Marvin Rohrbach
