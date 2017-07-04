@@ -12,6 +12,10 @@ For more questions feel free to contact me.
 2. Restore the packages
 3. Run
 
+## Projects using this lib
+ - `@DBNavBot` Telegram Bot
+ - Build a project yourself and contact me to get featured ;)
+
 ## License
 MIT License (see LICENSE file)
 
