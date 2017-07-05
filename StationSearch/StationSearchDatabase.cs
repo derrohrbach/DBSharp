@@ -28,6 +28,8 @@ namespace DBSharp.StationSearch
             : this(new LiteDatabase(path), collectionName)
         { }
 
+        public long Count() => _Collection.LongCount();
+
         public string FindEVA(string query)
         {
             query = SimplifyEntry(query);
